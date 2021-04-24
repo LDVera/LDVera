@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 🌱 I’m currently learning ...
-### Graduated by TecNM ROQUE (/>-<)/ 
+### I’m currently learning ...
+### Graduated by TecNM ROQUE
 
 <!--
 **LDVera/LDVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
