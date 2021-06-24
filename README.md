@@ -1,5 +1,8 @@
 ### Hi there 👋
-### I’m currently learning ...
+### I'm always learning ...
+### Open to all new technologies and doing the best
+
+
 ### Graduated by TecNM ROQUE
 
 <!--
